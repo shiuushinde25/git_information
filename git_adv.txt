@@ -1,0 +1,4 @@
+Distributed Architecture
+Work offline: Every developer has a full local copy of the repository, so you can commit, branch, and inspect history without an internet connection.
+
+No single point of failure: Since each user has the entire codebase, even if the central server crashes, work can continue.
