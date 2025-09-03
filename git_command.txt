@@ -1,2 +1,11 @@
 Git is a distributed version control system (DVCS) created by Linus Torvalds in 2005. 
 It helps developers track changes in source code during software development, enabling collaboration, version tracking, and efficient project management.
+
+Key Features
+Version Control: Git keeps snapshots of your code, so you can roll back to earlier versions if needed.
+
+Branching & Merging: You can create branches to work on features independently, then merge them back into the main codebase.
+
+Distributed System: Every developer has a full copy of the repository, including its history.
+
+Collaboration: Works seamlessly with platforms like GitHub, GitLab, and Bitbucket for team collaboration.
